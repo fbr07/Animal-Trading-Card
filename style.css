@@ -1,0 +1,25 @@
+/* add your CSS here */
+body {
+    width: 340px;
+    padding: 10px;
+    
+  }
+  .lion {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+  
+  }
+  .card {
+    width: 320px;
+    background-color: rgb(154,247,100);
+    border: 2px solid black;
+  }
+  
+  .information {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 2px;
+    text-align: left;
+  }
